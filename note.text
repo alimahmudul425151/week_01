@@ -14,5 +14,10 @@
 ** Single comment and Multiline comments?
  ans: single comments //
  ans : multiline Comments /* */ 
- 
-   
+
+ ** How to show var_dum  data showing nicely?
+  ans: echo"<pre>";
+     print_r
+  ehco "</pre>";  
+
+** exit, die, Use for line end. 

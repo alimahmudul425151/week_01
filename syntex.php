@@ -1,18 +1,18 @@
 <?php
-    echo"Bangladesh is my mother land";
-?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1> We are Learning Php</h1>
-    <h2> <?php echo " We are Bangladeshi";?></h2>
-    <h3><?= " I am learning Php Basic Now ";?></h3>
-</body>
-</html>
+$studentName="Hasan Ali";// String.
+$studentAge= 27; // integer.
+$studentHeight= 69.50; // float.
+ 
+$students=["Hasan","Ali","Mahmudul"]; //array
 
+
+
+// echo $studentAge;
+// var_dump($students);
+var_dump($students);
+ die();
+echo "<pre>";
+print_r($students);
+echo "</pre>";
+ echo "$studentAge";
