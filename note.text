@@ -21,3 +21,5 @@
   ehco "</pre>";  
 
 ** exit, die, Use for line end. 
+** How make line break in php?
+ ans: "\n" and php_EOL
