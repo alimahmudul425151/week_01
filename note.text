@@ -1,0 +1,18 @@
+
+ * How to run php code on browser ?
+  ans: php -S localhost:8000 ( file Name). Process on any terminal.
+** How to run php on code editor on terminal?
+  ans:php ( file name).
+** How to crate new file?
+ asn:touch file name.
+
+** How to open any file with vs code with laragon terminal?
+  ans: type code .
+** How to Write Shorthand php syntex?
+ ans: <?=""?>;
+
+** Single comment and Multiline comments?
+ ans: single comments //
+ ans : multiline Comments /* */ 
+ 
+   
